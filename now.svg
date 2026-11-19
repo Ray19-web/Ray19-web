@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190">
+<style>text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.in{opacity:0;animation:i 1s ease forwards}@keyframes i{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.pu{animation:p 2s ease-in-out infinite}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}</style>
+<g transform="translate(20 20)" class="in" style="animation-delay:0.0s">
+<rect width="370" height="150" rx="20" fill="#0c1020" stroke="#7dd3fc" stroke-opacity=".4"/>
+<circle cx="32" cy="38" r="5" fill="#7dd3fc" class="pu" style="animation-delay:0.0s"/><text x="48" y="43" font-size="14" letter-spacing="6" fill="#7dd3fc">BUILDING</text>
+<text x="32" y="88" font-size="22" font-weight="600" fill="#ffffff">Client-ready websites</text><text x="32" y="118" font-size="22" font-weight="600" fill="#9aa4cf">and my portfolio</text></g><g transform="translate(410 20)" class="in" style="animation-delay:0.3s">
+<rect width="370" height="150" rx="20" fill="#0c1020" stroke="#a78bfa" stroke-opacity=".4"/>
+<circle cx="32" cy="38" r="5" fill="#a78bfa" class="pu" style="animation-delay:0.5s"/><text x="48" y="43" font-size="14" letter-spacing="6" fill="#a78bfa">LEARNING</text>
+<text x="32" y="88" font-size="22" font-weight="600" fill="#ffffff">JavaScript, modern CSS</text><text x="32" y="118" font-size="22" font-weight="600" fill="#9aa4cf">and motion on the web</text></g><g transform="translate(800 20)" class="in" style="animation-delay:0.6s">
+<rect width="370" height="150" rx="20" fill="#0c1020" stroke="#f0abfc" stroke-opacity=".4"/>
+<circle cx="32" cy="38" r="5" fill="#f0abfc" class="pu" style="animation-delay:1.0s"/><text x="48" y="43" font-size="14" letter-spacing="6" fill="#f0abfc">EXPLORING</text>
+<text x="32" y="88" font-size="22" font-weight="600" fill="#ffffff">UI / UX design</text><text x="32" y="118" font-size="22" font-weight="600" fill="#9aa4cf">and clean layouts</text></g></svg>
